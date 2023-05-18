@@ -16,7 +16,7 @@ const App: React.FC = () => {
   };
 
   const wrapperStyle = {
-    width: 300,
+    width: 500,
     border: `1px solid ${token.colorBorderSecondary}`,
     borderRadius: token.borderRadiusLG,
   };
